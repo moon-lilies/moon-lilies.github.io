@@ -1,3 +1,3 @@
 ## hewwo
 
-![d.va reclining wow she's so pretty](/moon-lilies.github.io/assets/dva2.png)
+![d.va reclining wow she's so pretty](/moon-lilies.github.io/assets/dva.jpg)
