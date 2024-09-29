@@ -1,11 +1,9 @@
 <div class="image">
     <div style="float:left;margin-right:5px;">
         <img src="assets/images/club.png" style = "width:756px; height:1008px"  />
-        <p style="text-align:center;">This is image 1</p>
     </div>
     <div style="float:left;margin-right:5px;">
         <img src="assets/images/roses.png" style = "width:756px; height:1008px"  />
-        <p style="text-align:center;">This is image 2</p>
     </div>
 </div>
 
